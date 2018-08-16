@@ -1,9 +1,12 @@
-Hello 
-World 
-Glue
-Jar
-Stewart
-Lo
-789203
-HJJKLLS
-Mgadred
+The Rainbow and the Unicorn
+
+Purple
+Pink
+Orange
+Blue
+Green
+Unicorn
+Yellow 
+Red
+These are the colors of the rainbow.
+And the unicorn.
