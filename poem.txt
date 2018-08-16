@@ -11,6 +11,7 @@ Indigo
 Unicorn
 Yellow 
 Red
+Hello
 These are the colors of the rainbow.
 And the unicorn.
 And the Ponies.
